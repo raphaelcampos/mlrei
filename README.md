@@ -15,6 +15,8 @@ You can read a more detail explanation of my motivation [here](https://medium.co
 
 *Why in portuguese? Thera are many good blogs and site that produces excelent content in English but few or almost none in portuguese. Thus, I will focus on my country's audience because I believe the given access to information and knowledge is the best way to change the my country :).
 
-## Implemented methods so far
+## Methods
+
+So far, we implemented the following method:
 
 - [Classification Decision Trees](https://github.com/raphaelcampos/mlrei/blob/master/tree/tree.py)
