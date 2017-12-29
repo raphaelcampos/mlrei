@@ -9,7 +9,7 @@ All the code implemented here will be explained in my blog [Machine Learning Bey
 Despite the name of the blog my objectives are the following:
 
 - Produce and share excellent content about Machine Learning in Portuguese*
-- Consolidate my knowledge on Machine Learning (I think that is no better way other than teaching and sharing to achieve that)
+- Consolidate my knowledge on Machine Learning (I think that there is no better way other than teaching and sharing to achieve that)
 
 You can read a more detail explanation of my motivation [here](https://medium.com/machine-learning-beyond-deep-learning/machine-learning-beyond-deep-learning-a-motiva%C3%A7%C3%A3o-3548f83d8f81) (in Portuguese).
 
