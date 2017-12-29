@@ -8,12 +8,12 @@ All the code implemented here will be explained in my blog [Machine Learning Bey
 
 Despite the name of the blog my objectives are the following:
 
-- Produce and share good content about Machine Learning in Portuguese*
+- Produce and share excellent content about Machine Learning in Portuguese*
 - Consolidate my knowledge on Machine Learning (I think that is no better way other than teaching and sharing to achieve that)
 
 You can read a more detail explanation of my motivation [here](https://medium.com/machine-learning-beyond-deep-learning/machine-learning-beyond-deep-learning-a-motiva%C3%A7%C3%A3o-3548f83d8f81) (in Portuguese).
 
-*Why in portuguese? Thera are many good blogs and site that produces excelent content in English but few or almost none in portuguese. Thus, I will focus on my country's audience because I believe the given access to information and knowledge is the best way to change the my country :).
+**Why in portuguese? Thera are many good blogs and site that produces excellent content in English but few or almost none in portuguese. Thus, I will focus on my country's audience because I believe the given access to information and knowledge is the best way to change the my country :).*
 
 ## Methods
 
